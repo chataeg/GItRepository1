@@ -1,19 +1,17 @@
 # Project Title
 
-
 A brief description of what this project does and who it's for.
 
 
 <http://logo_link>
 
-## Badges
-
+### Badges
 
 Inlcude some badges such as build status, test coverage, etc.
 
 <http://badge_link>
 
-## Features
+### Features
 
 * Feature 1
 * Feature 2
